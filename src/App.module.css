@@ -1,0 +1,7 @@
+.main {
+    width: min-content;
+    border: solid;
+    height: 60vh;
+    overflow: auto;
+    background: linear-gradient(to right, #a8c0ff, #3f2b96);
+}

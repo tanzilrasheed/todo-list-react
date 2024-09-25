@@ -1,0 +1,29 @@
+.li {
+    list-style-type: none;
+    margin: 3px;
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(to right, pink, grey);
+    align-items: center;
+}
+
+
+.taskText {
+    overflow-wrap: break-word;
+    word-break: break-all;
+}
+
+.ul {
+    padding: 0;
+}
+
+.addtodo {
+    position: sticky;
+    top: 0px;
+}
+
+.deleteBtn {
+    background-color: red;
+    height: min-content;
+    padding: 3px;
+}
